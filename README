@@ -1,0 +1,5 @@
+Can be used to convert between arbitrary dates and unix timestamps, or, 
+just to get the current timestamp and date.
+
+Usage: $0 [--help|-h|-?] [--unix|-u <num>]] [--date|-d <YYYY-MMM-DD HH:MM>]
+Without arguments, will print both the current unix timestamp and the current date.
